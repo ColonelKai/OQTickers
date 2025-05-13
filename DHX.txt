@@ -1,3 +1,8 @@
-10/5/2025= DHX-NETH:130
-11/5/2025= DHX-NETH:130
-12/5/2025= DHX-NETH:124.75
+#DEFINE=NETH
+#DESCRIPTION=Series C Netherite Commodity Notes
+#WHERETOBUY=/gps start c-3-royal-ln
+#WHOOWNSIT=Imperial Dominion Banking Corporation
+
+!10/5/2025=NETH:130
+!11/5/2025=NETH:130
+!12/5/2025=NETH:124.75
