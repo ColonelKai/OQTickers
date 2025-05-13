@@ -1,0 +1,15 @@
+// This is a comment line.
+// This is a test file for the V2 of OQFF
+#DEFINE=MOTH
+#DESCRIPTION=A commodity entirely based around Moths. We trade the value of moths, man!
+#WHERETOBUY=You can buy into the moth commodity market through mothcommodities.org
+#WHOOWNSIT=Moth Commodities are owned by ACME Corp.
+
+#DEFINE=CATS
+#DESCRIPTION=You guessed it buddy. A commodity entirely based around cats. They are worth millions!
+#WHERETOBUY=You should not buy cats. Thats fucked.
+#WHOOWNSIT=Cat Commodities are owned by ACME Corp.
+
+!01/01/2005=CATS:123.45
+!01/01/2005/04.22=MOTH:54.32
+!02/01/2005/02.00=MOTH:65.32
