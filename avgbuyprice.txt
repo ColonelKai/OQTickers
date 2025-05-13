@@ -3,6 +3,11 @@
 #WHERETOBUY=N/A
 #WHOOWNSIT=N/A
 
+#DEFINE=NETHERITE
+#DESCRIPTION=The average buy price of Netherite Ingots as can be found with /find.
+#WHERETOBUY=N/A
+#WHOOWNSIT=N/A
+
 !8/5/2025=DIAMOND:1.68
 !8/5/2025=NETHERITE:107.38
 !9/5/2025=DIAMOND:1.68
