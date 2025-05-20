@@ -1,0 +1,6 @@
+#DEFINE=SNCTM
+#DESCRIPTION=Sanctum Corporation Stock
+#WHERETOBUY=/gps start c-1-regent-st
+#WHOOWNSIT=Sanctum Corporation
+
+!20/5/2025@1100=SNCTM:81.25
