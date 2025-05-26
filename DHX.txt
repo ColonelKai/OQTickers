@@ -1,11 +1,12 @@
-// #DEFINE=NETH
-// #DESCRIPTION=Series C Netherite Commodity Notes
-// #WHERETOBUY=/gps start c-3-royal-ln
-// #WHOOWNSIT=Imperial Dominion Banking Corporation
+#DEFINE=NETH
+#DESCRIPTION=Series C Netherite Commodity Notes
+#WHERETOBUY=/gps start c-3-royal-ln
+#WHOOWNSIT=Imperial Dominion Banking Corporation
 
-// !10/5/2025=NETH:130
-// !11/5/2025=NETH:130
-// !12/5/2025=NETH:124.75
-// !14/5/2025@1600=NETH:96.25
-// !15/5/2025@1600=NETH:96.25
-// !20/5/2025@1100=NETH:112
+!10/5/2025=NETH:130
+!11/5/2025=NETH:130
+!12/5/2025=NETH:124.75
+!14/5/2025@1600=NETH:96.25
+!15/5/2025@1600=NETH:96.25
+!20/5/2025@1100=NETH:112
+!26/5/2025@1100=NETH:102.75
