@@ -1,0 +1,12 @@
+#DEFINE=IRON
+#DESCRIPTION=The price of Iron Ingots on the Sanctum Commodities Exchange.
+#WHERETOBUY=/gps start C-1-regent-st
+#WHOOWNSIT=Sanctum Corp.
+
+#DEFINE=DIAMOND
+#DESCRIPTION=The price of Diamonds on the Sanctum Commodities Exchange.
+#WHERETOBUY=/gps start C-1-regent-st
+#WHOOWNSIT=Sanctum Corp.
+
+!1/6/2025@1400=DIAMOND:1.7
+!1/6/2025@1400=IRON:0.40
