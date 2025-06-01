@@ -1,15 +1,15 @@
 #DEFINE=DIAMOND
-#DESCRIPTION=The average buy price of Diamonds as can be found with /find.
+#DESCRIPTION=Originally tracking average buy price on /find, now tracking Sanctum Commodity Market as of 1/6/2025.
 #WHERETOBUY=N/A
 #WHOOWNSIT=N/A
 
-#DEFINE=NETHERITE
-#DESCRIPTION=The average buy price of Netherite Ingots as can be found with /find.
-#WHERETOBUY=N/A
-#WHOOWNSIT=N/A
+// #DEFINE=NETHERITE
+// #DESCRIPTION=Originally tracking average buy price on /find, now tracking Sanctum Commodity Market as of 1/6/2025.
+// #WHERETOBUY=N/A
+// #WHOOWNSIT=N/A
 
 #DEFINE=IRON
-#DESCRIPTION=The average buy price of Iron Ingots as can be found with /find.
+#DESCRIPTION=Originally tracking average buy price on /find, now tracking Sanctum Commodity Market as of 1/6/2025.
 #WHERETOBUY=N/A
 #WHOOWNSIT=N/A
 
@@ -55,3 +55,6 @@
 !31/5/2025@1100=NETHERITE:132.64
 !31/5/2025@1100=IRON:0.86
 !31/5/2025@1100=QUARTZ:0.14
+!1/6/2025@1400=DIAMOND:1.7
+!1/6/2025@1400=IRON:0.40
+!1/6/2025@1400=QUARTZ:0.14
