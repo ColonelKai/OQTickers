@@ -8,6 +8,16 @@
 #WHERETOBUY=/gps start C-1-regent-st
 #WHOOWNSIT=Sanctum Corp.
 
+#DEFINE=ELYTRA
+#DESCRIPTION=The price of Elytra on the Sanctum Commodities Exchange.
+#WHERETOBUY=/gps start C-1-regent-st
+#WHOOWNSIT=Sanctum Corp.
+
+#DEFINE=ROCKET
+#DESCRIPTION=The price of a Stack Firework Rockets on the Sanctum Commodities Exchange.
+#WHERETOBUY=/gps start C-1-regent-st
+#WHOOWNSIT=Sanctum Corp.
+
 !1/6/2025@1400=DIAMOND:1.7
 !1/6/2025@1400=IRON:0.40
 !2/6/2025@1600=DIAMOND:1.7
@@ -18,3 +28,5 @@
 !4/6/2025@1100=IRON:0.05
 !5/6/2025@1400=DIAMOND:1.6
 !5/6/2025@1400=IRON:0.15
+!5/6/2025=ROCKET:4
+!5/6/2025=ELYTRA:110
